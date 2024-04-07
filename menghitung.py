@@ -34,6 +34,5 @@ while True:
         break
 
     else:
-        print("!!!!!!!MASUKAN YANG ECREGGG!!!!!!!.")
-                        
-                        # DIMAS ANJAY MABAR
+        print("!!!!!!!MASUKAN YANG BENAR!!!!!!!.")
+                   
